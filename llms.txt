@@ -1,0 +1,19 @@
+# Clavier Arabe en Ligne
+> Clavier Arabe Virtuel et Intelligent pour Écrire en Arabe sans Clavier Physique
+
+## Présentation du Projet
+Clavier Arabe est un outil web ultra-rapide, léger et gratuit permettant de rédiger des textes en langue arabe avec signes diacritiques (Tashkeel) sur ordinateur et téléphone mobile, sans installation logicielle.
+
+## URL Canonique
+https://ahmedelazabdev.github.io/clavierarabe/
+
+## Fonctionnalités Principales
+- Disposition complète standard 101/102 touches arabes interactives.
+- Rangée dédiée aux voyelles courtes et diacritiques (Fatha, Damma, Kasra, Sukun, Shadda, Tanwin).
+- Copie instantanée du texte dans le presse-papiers en un clic.
+- Raccourcis de recherche directe sur Google et YouTube en arabe.
+- Compteur de caractères et de mots en temps réel.
+- 100% Client-Side et Respectueux de la vie privée : le texte saisi reste strictement dans le navigateur de l'utilisateur.
+
+## Public Cible
+Francophones, étudiants, membres de la diaspora et professionnels nécessitant de taper occasionnellement ou régulièrement en alphabet arabe sur des claviers physiques AZERTY ou QWERTY.
